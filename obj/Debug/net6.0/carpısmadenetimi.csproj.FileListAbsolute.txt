@@ -1,0 +1,15 @@
+D:\uygulama\aaaaaaaa\obj\Debug\net6.0\carpısmadenetimi.csproj.AssemblyReference.cache
+D:\uygulama\aaaaaaaa\obj\Debug\net6.0\carpısmadenetimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\uygulama\aaaaaaaa\obj\Debug\net6.0\carpısmadenetimi.AssemblyInfoInputs.cache
+D:\uygulama\aaaaaaaa\obj\Debug\net6.0\carpısmadenetimi.AssemblyInfo.cs
+D:\uygulama\aaaaaaaa\obj\Debug\net6.0\carpısmadenetimi.csproj.CoreCompileInputs.cache
+D:\uygulama\aaaaaaaa\bin\Debug\net6.0\carpısmadenetimi.exe
+D:\uygulama\aaaaaaaa\bin\Debug\net6.0\carpısmadenetimi.deps.json
+D:\uygulama\aaaaaaaa\bin\Debug\net6.0\carpısmadenetimi.runtimeconfig.json
+D:\uygulama\aaaaaaaa\bin\Debug\net6.0\carpısmadenetimi.dll
+D:\uygulama\aaaaaaaa\bin\Debug\net6.0\carpısmadenetimi.pdb
+D:\uygulama\aaaaaaaa\obj\Debug\net6.0\carpısmadenetimi.dll
+D:\uygulama\aaaaaaaa\obj\Debug\net6.0\refint\carpısmadenetimi.dll
+D:\uygulama\aaaaaaaa\obj\Debug\net6.0\carpısmadenetimi.pdb
+D:\uygulama\aaaaaaaa\obj\Debug\net6.0\carpısmadenetimi.genruntimeconfig.cache
+D:\uygulama\aaaaaaaa\obj\Debug\net6.0\ref\carpısmadenetimi.dll
